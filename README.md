@@ -1,4 +1,4 @@
-### Python_Casual_Inference
+### Python_Causal_Inference
 
 1. Workout of building a structure model by identifying the focal variable x and testing its robustness by applying the relevant tests.
 
